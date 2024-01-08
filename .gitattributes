@@ -1,0 +1,4 @@
+images/Flatcraft/VideoFlatcraft.mp4 filter=lfs diff=lfs merge=lfs -text
+images/Flatcraft/VideoFlatcraft_r.mp4 filter=lfs diff=lfs merge=lfs -text
+images/RaceGame/VideoRaceGame.mp4 filter=lfs diff=lfs merge=lfs -text
+images/miniatures/ filter=lfs diff=lfs merge=lfs -text
